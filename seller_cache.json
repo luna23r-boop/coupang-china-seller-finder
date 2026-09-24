@@ -23,5 +23,17 @@
   "에코바이": { "rep": "미확인", "isChinese": "unknown", "reason": "미확인" },
   "수산싸다구": { "rep": "미확인", "isChinese": false, "reason": "가격 초과 제외" },
   "세웅몰": { "rep": "미확인", "isChinese": false, "reason": "가격 초과 제외" },
-  "남영상가": { "rep": "미확인", "isChinese": false, "reason": "가격 초과 제외" }
+  "남영상가": { "rep": "미확인", "isChinese": false, "reason": "가격 초과 제외" },
+  "위드지아 유한회사": { "rep": "FENG YUJIA", "isChinese": true, "reason": "유한회사+핑인" },
+  "패션마스터": { "rep": "김진규", "isChinese": false, "reason": "한국인" },
+  "단단트리": { "rep": "미확인", "isChinese": false, "reason": "한국인" },
+  "애쉬브릭": { "rep": "정유진", "isChinese": false, "reason": "한국인" },
+  "그라드(GRAD)": { "rep": "미확인", "isChinese": false, "reason": "한국인" },
+  "유한회사 페이텐롱트레이딩": { "rep": "미확인", "isChinese": true, "reason": "유한회사+트레이딩" },
+  "뉴코아 아울렛 일산점": { "rep": "미확인", "isChinese": false, "reason": "국내 아울렛" },
+  "뉴코아 (산본F1)": { "rep": "미확인", "isChinese": false, "reason": "국내 아울렛" },
+  "엘스토어": { "rep": "미확인", "isChinese": false, "reason": "한국인" },
+  "멀티브랜드몰": { "rep": "미확인", "isChinese": false, "reason": "한국인" },
+  "지와이스포츠": { "rep": "미확인", "isChinese": false, "reason": "한국인" },
+  "룩스코드": { "rep": "미확인", "isChinese": false, "reason": "한국인" }
 }
