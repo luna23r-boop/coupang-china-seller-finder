@@ -102,12 +102,12 @@
   "정국상사": {
     "rep": "lizhengguo",
     "isChinese": true,
-    "reason": "대표자(lizhengguo)"
+    "reason": "대표자 핑인"
   },
   "에코바이": {
-    "rep": "CHE ZHEWAN(차철만)",
+    "rep": "CHE ZHEWAN",
     "isChinese": true,
-    "reason": "대표자 핑인(CHE ZHEWAN)"
+    "reason": "대표자 핑인"
   },
   "수산싸다구": {
     "rep": "미확인",
@@ -437,7 +437,7 @@
   "비티치": {
     "rep": "얜무빈",
     "isChinese": true,
-    "reason": "대표자(얜무빈)"
+    "reason": "대표자 중국식"
   },
   "더블에이치": {
     "rep": "최용인",
@@ -482,17 +482,17 @@
   "제이더블유 텍스타일": {
     "rep": "ZHANG JIAWEI",
     "isChinese": true,
-    "reason": "대표자(ZHANG JIAWEI)"
+    "reason": "대표자 핑인"
   },
   "비브이랩": {
     "rep": "얜무빈",
     "isChinese": true,
-    "reason": "대표자(얜무빈)"
+    "reason": "대표자 중국식"
   },
   "제이와이상사": {
     "rep": "얜무빈",
     "isChinese": true,
-    "reason": "대표자(얜무빈)"
+    "reason": "대표자 중국식"
   },
   "큰부리새의 집": {
     "rep": "박창균",
@@ -540,14 +540,14 @@
     "reason": "한국인"
   },
   "아크레온유한회사": {
-    "rep": "미확인",
+    "rep": "YUAN CHAO",
     "isChinese": true,
-    "reason": "유한회사"
+    "reason": "유한회사+핑인"
   },
   "오엠브로": {
     "rep": "YUAN CHAO",
     "isChinese": true,
-    "reason": "대표자 핑인(YUAN CHAO)"
+    "reason": "대표자 핑인"
   },
   "궈동무역 유한회사": {
     "rep": "미확인",
@@ -557,7 +557,7 @@
   "땡스앤땡스": {
     "rep": "WEN GUODONG",
     "isChinese": true,
-    "reason": "대표자 핑인(WEN GUODONG)"
+    "reason": "대표자 핑인"
   },
   "데일리퍼퓸": {
     "rep": "김명훈",
@@ -565,24 +565,24 @@
     "reason": "한국인"
   },
   "영인글로벌": {
-    "rep": "HUANG YINGXIN(황잉신)",
+    "rep": "HUANG YINGXIN",
     "isChinese": true,
-    "reason": "대표자(HUANG YINGXIN(황잉신))"
+    "reason": "대표자 핑인"
   },
   "인레이션": {
     "rep": "얜무빈",
     "isChinese": true,
-    "reason": "대표자 중국식(얜무빈)"
+    "reason": "대표자 중국식"
   },
   "루미나 에디션": {
-    "rep": "ZHANG XIA(장샤)",
+    "rep": "ZHANG XIA",
     "isChinese": true,
-    "reason": "대표자(ZHANG XIA(장샤))"
+    "reason": "대표자 핑인"
   },
   "엑셀픽": {
-    "rep": "ZHANG XIA(장샤)",
+    "rep": "ZHANG XIA",
     "isChinese": true,
-    "reason": "대표자(ZHANG XIA(장샤))"
+    "reason": "대표자 핑인"
   },
   "유한회사 대유건계": {
     "rep": "미확인",
@@ -592,6 +592,41 @@
   "유씨와이": {
     "rep": "옌루빈",
     "isChinese": true,
-    "reason": "대표자 중국식(옌루빈)"
+    "reason": "대표자 중국식"
+  },
+  "항재트레이드 주식회사": {
+    "rep": "ZHOU YUCAI",
+    "isChinese": "unknown",
+    "reason": "검색 오염 - 베이프 아닌 상품"
+  },
+  "유한회사 제맥스": {
+    "rep": "CHENG ZEMING",
+    "isChinese": true,
+    "reason": "유한회사+핑인"
+  },
+  "바바인소 유한회사": {
+    "rep": "미확인",
+    "isChinese": true,
+    "reason": "유한회사"
+  },
+  "펑시시 유한회사": {
+    "rep": "PENG SISI",
+    "isChinese": true,
+    "reason": "유한회사+핑인"
+  },
+  "학성무역 유한회사": {
+    "rep": "LING XUECHENG",
+    "isChinese": true,
+    "reason": "유한회사+핑인"
+  },
+  "펑준 유한회사": {
+    "rep": "QU PENGJUN",
+    "isChinese": true,
+    "reason": "유한회사+핑인"
+  },
+  "띠앗주식회사": {
+    "rep": "유성호",
+    "isChinese": false,
+    "reason": "한국인"
   }
 }
