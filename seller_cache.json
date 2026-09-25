@@ -463,5 +463,90 @@
     "rep": "미확인",
     "isChinese": "unknown",
     "reason": "미확인"
+  },
+  "예정": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "제이에이치컴퍼니": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "이천일아울렛 천호점": {
+    "rep": "미확인",
+    "isChinese": false,
+    "reason": "국내 아울렛"
+  },
+  "제이더블유 텍스타일": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "비브이랩": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "제이와이상사": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "큰부리새의 집": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "뷰티홈라이프": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "블루버드": {
+    "rep": "한정수",
+    "isChinese": false,
+    "reason": "한국인"
+  },
+  "루미온": {
+    "rep": "구지율",
+    "isChinese": false,
+    "reason": "한국인"
+  },
+  "브랜드웨이": {
+    "rep": "박혜영",
+    "isChinese": false,
+    "reason": "한국인"
+  },
+  "삼이삼 커머스": {
+    "rep": "김지원",
+    "isChinese": false,
+    "reason": "한국인"
+  },
+  "헤뉴": {
+    "rep": "김명훈",
+    "isChinese": false,
+    "reason": "한국인"
+  },
+  "데일리아크(dailyarc)": {
+    "rep": "채수아",
+    "isChinese": false,
+    "reason": "한국인"
+  },
+  "모든": {
+    "rep": "안성찬",
+    "isChinese": false,
+    "reason": "한국인"
+  },
+  "아크레온유한회사": {
+    "rep": "미확인",
+    "isChinese": true,
+    "reason": "유한회사"
+  },
+  "오엠브로": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
   }
 }
