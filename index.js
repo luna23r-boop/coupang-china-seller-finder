@@ -35,6 +35,12 @@ function isChinese(seller, rep) {
   }
   if(rep){
     if(/[\u4e00-\u9fff]/.test(rep)) return '대표자 중국어';
+    // 한글 대표자: 3글자+한국성씨 아니면 중국인 간주
+    const krSurnames='김이박최정강조윤장임한오서신권황안송류전홍고문양손배백허유남노하곽성차주우구민나진지엄채원천방공현도';
+    if(/^[가-힣]{2,4}$/.test(rep) && !krSurnames.includes(rep[0])) return `대표자 비한국성씨(${rep})`;
+    if(/^[가-힣]$/.test(rep) || rep.length===1) return `대표자 1글자(${rep})`;
+    // 영문 대표자: 모두 핑인 체크
+    if(/^[A-Z]/i.test(rep) && !/^(KIM|LEE|PARK|CHOI|JUNG|KANG|CHO|YOON|JANG|LIM|HAN|OH|SEO|SHIN|KWON|HWANG|AHN|SONG|RYU|JEON|HONG)/i.test(rep)) return `대표자 핑인(${rep})`;
     if(/^(왕|리|류|장|진|마|후|쿠|치|동|딩|방|우|펀|파|런|궈|루|란|웨|러|쉬|탕|셴)/.test(rep)) return `대표자 중국식(${rep})`;
     if(/^(LUO|WANG|LI|ZHANG|CHEN|LIU|YANG|HUANG|ZHAO|WU|ZHOU|XU|SUN|MA|HU|GUO|LIN|HE|LU|TANG|DENG|FENG|XIAO|CHENG|PAN|YUAN|JIANG|GONG|XUAN|DONG|HAN|ZHU)/i.test(rep)) return `대표자 핑인(${rep})`;
   }

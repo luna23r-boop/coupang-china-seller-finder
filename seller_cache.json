@@ -95,19 +95,19 @@
     "reason": "국내 백화점"
   },
   "에이스소재": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "고인애",
+    "isChinese": false,
+    "reason": "한국인(고인애)"
   },
   "정국상사": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "lizhengguo",
+    "isChinese": true,
+    "reason": "대표자(lizhengguo)"
   },
   "에코바이": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "CHE ZHEWAN(차철만)",
+    "isChinese": true,
+    "reason": "대표자 핑인(CHE ZHEWAN)"
   },
   "수산싸다구": {
     "rep": "미확인",
@@ -435,14 +435,14 @@
     "reason": "유한회사+핑인"
   },
   "비티치": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "얜무빈",
+    "isChinese": true,
+    "reason": "대표자(얜무빈)"
   },
   "더블에이치": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "최용인",
+    "isChinese": false,
+    "reason": "한국인(최용인)"
   },
   "NC강서점": {
     "rep": "미확인",
@@ -455,24 +455,24 @@
     "reason": "국내 백화점"
   },
   "브랜딩부띠끄": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "박재진",
+    "isChinese": false,
+    "reason": "한국인(박재진)"
   },
   "슈헌터": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "김택근",
+    "isChinese": false,
+    "reason": "한국인(김택근)"
   },
   "예정": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "이재익",
+    "isChinese": false,
+    "reason": "한국인(이재익)"
   },
   "제이에이치컴퍼니": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "김정후",
+    "isChinese": false,
+    "reason": "한국인(김정후)"
   },
   "이천일아울렛 천호점": {
     "rep": "미확인",
@@ -480,29 +480,29 @@
     "reason": "국내 아울렛"
   },
   "제이더블유 텍스타일": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "ZHANG JIAWEI",
+    "isChinese": true,
+    "reason": "대표자(ZHANG JIAWEI)"
   },
   "비브이랩": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "얜무빈",
+    "isChinese": true,
+    "reason": "대표자(얜무빈)"
   },
   "제이와이상사": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "얜무빈",
+    "isChinese": true,
+    "reason": "대표자(얜무빈)"
   },
   "큰부리새의 집": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "박창균",
+    "isChinese": false,
+    "reason": "한국인(박창균)"
   },
   "뷰티홈라이프": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "한정수",
+    "isChinese": false,
+    "reason": "한국인(한정수)"
   },
   "블루버드": {
     "rep": "한정수",
@@ -545,9 +545,9 @@
     "reason": "유한회사"
   },
   "오엠브로": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "YUAN CHAO",
+    "isChinese": true,
+    "reason": "대표자 핑인(YUAN CHAO)"
   },
   "궈동무역 유한회사": {
     "rep": "미확인",
@@ -555,9 +555,9 @@
     "reason": "유한회사"
   },
   "땡스앤땡스": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "WEN GUODONG",
+    "isChinese": true,
+    "reason": "대표자 핑인(WEN GUODONG)"
   },
   "데일리퍼퓸": {
     "rep": "김명훈",
@@ -565,28 +565,33 @@
     "reason": "한국인"
   },
   "영인글로벌": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "HUANG YINGXIN(황잉신)",
+    "isChinese": true,
+    "reason": "대표자(HUANG YINGXIN(황잉신))"
   },
   "인레이션": {
     "rep": "얜무빈",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "isChinese": true,
+    "reason": "대표자 중국식(얜무빈)"
   },
   "루미나 에디션": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "ZHANG XIA(장샤)",
+    "isChinese": true,
+    "reason": "대표자(ZHANG XIA(장샤))"
   },
   "엑셀픽": {
-    "rep": "미확인",
-    "isChinese": "unknown",
-    "reason": "미확인"
+    "rep": "ZHANG XIA(장샤)",
+    "isChinese": true,
+    "reason": "대표자(ZHANG XIA(장샤))"
   },
   "유한회사 대유건계": {
     "rep": "미확인",
     "isChinese": true,
     "reason": "유한회사"
+  },
+  "유씨와이": {
+    "rep": "옌루빈",
+    "isChinese": true,
+    "reason": "대표자 중국식(옌루빈)"
   }
 }
