@@ -548,5 +548,45 @@
     "rep": "미확인",
     "isChinese": "unknown",
     "reason": "미확인"
+  },
+  "궈동무역 유한회사": {
+    "rep": "미확인",
+    "isChinese": true,
+    "reason": "유한회사"
+  },
+  "땡스앤땡스": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "데일리퍼퓸": {
+    "rep": "김명훈",
+    "isChinese": false,
+    "reason": "한국인"
+  },
+  "영인글로벌": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "인레이션": {
+    "rep": "얜무빈",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "루미나 에디션": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "엑셀픽": {
+    "rep": "미확인",
+    "isChinese": "unknown",
+    "reason": "미확인"
+  },
+  "유한회사 대유건계": {
+    "rep": "미확인",
+    "isChinese": true,
+    "reason": "유한회사"
   }
 }
